@@ -8,8 +8,12 @@
  * GLOBAL STYLES
  *********************************************/
 body {
+/*
   background: #111111;
   background-color: #111111; }
+*/
+
+  background-image:url(../../black_thread.png); }
 
 .reveal {
   font-family: "Open Sans", sans-serif;
