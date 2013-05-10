@@ -23,6 +23,12 @@ body {
   background: #ff5e99;
   text-shadow: none; }
 
+table.center {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
