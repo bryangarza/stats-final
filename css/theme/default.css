@@ -33,6 +33,12 @@ table.center {
     margin-right: 15%;
 }
 
+table.center2 {
+    width: 90%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
